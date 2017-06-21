@@ -1,0 +1,21 @@
+#especial{
+	color: rgba(200,0,0,1.0);
+}
+.verde{
+	color#FF0000;
+}
+h1{
+	border-left-color:blue;
+	border-right-color:red;
+	border-top-color:green;
+	border-bottom-color:none;
+
+	border-style: solid;
+	border-width: 5px;
+
+}
+body{
+	background:url(imagenescss/fes.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
