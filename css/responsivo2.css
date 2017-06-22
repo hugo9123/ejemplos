@@ -1,0 +1,13 @@
+header{
+	background-color: #345678;
+}
+
+.blanco{
+	color:#B7950B;
+}
+.color{
+	background-color: #B7950B;
+	border-width: 1px;
+	border-style:solid;
+	border-color:#345678;
+}
